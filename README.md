@@ -1,1 +1,1 @@
-# xclip
+xclip: tootip to observe cipboard
