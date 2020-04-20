@@ -1,1 +1,1 @@
-xclip: tootip to observe cipboard
+xclip: Tootip to observe clipboard
